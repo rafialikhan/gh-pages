@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/12/05/logo-retina.png"
+banner_image: "/uploads/2018/12/05/about.png"
 heading: About Rafi
 sub_heading: UX & Technology
 layout: landing-page
@@ -17,4 +17,4 @@ menu:
     weight: 2
 
 ---
-This is just a placeholder page for now. I will be adding more content as we go along. 
+This is just a placeholder page for now. I will be adding more content as we go along.  
