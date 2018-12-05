@@ -24,7 +24,7 @@ hero_button:
   text: About Me
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
