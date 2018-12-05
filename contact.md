@@ -11,7 +11,7 @@ sub_heading: How to get in touch with me.
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 5
 
 ---
 If its an unknown mail or number, i will definitely ignore you, so please introduce yourself and purpose if you reach out to get a reply. 
