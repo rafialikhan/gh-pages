@@ -6,7 +6,9 @@ heading: Contact Rafi Ali Khan
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 textline: You can usually contact me on email at rafialikhan@gmail.com or on WhatsApp
-  @ 9986018496
+  or call me at 9986018496. If its an unknown mail or number, i will definitely ignore
+  you, so please introduce yourself and purpose if you reach out to get a reply.
+sub_heading: How to get in touch with me.
 menu:
   navigation:
     identifier: _contact
