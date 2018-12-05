@@ -8,7 +8,7 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: User Experience is the focus of great designs.
+- description: User Experience is the focus of great products.
   heading: User Experience
   icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.25.46 AM.png"
 - description: Technology for everything else.
