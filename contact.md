@@ -14,7 +14,7 @@ menu:
     weight: 4
 
 ---
-If its an unknown mail or number, i will definitely ignore you, so please introduce yourself and purpose if you reach out to get a reply.
+If its an unknown mail or number, i will definitely ignore you, so please introduce yourself and purpose if you reach out to get a reply. 
 
 ## Hours of Operation
 
