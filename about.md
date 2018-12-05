@@ -5,7 +5,7 @@ banner_image: "/uploads/2018/12/05/developers.jpg"
 heading: About Rafi
 sub_heading: UX & Technology
 layout: landing-page
-textline: Focused on great product design, user experience and new technologies.
+textline: 'Focused on great product design, user experience and new technologies. '
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
