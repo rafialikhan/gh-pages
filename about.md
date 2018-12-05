@@ -17,4 +17,4 @@ menu:
     weight: 2
 
 ---
-This is just a placeholder page for now. I will be adding more content as we go along.  
+This is just a placeholder page for now. I will be adding more content as we go along. 
