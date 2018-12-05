@@ -11,10 +11,9 @@ services:
 - description: User Experience is the focus of great designs.
   heading: User Experience
   icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.06.29 AM.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Technology for everything else.
+  heading: Technology
+  icon: "/uploads/2018/12/05/coding.png"
 sub_heading: User Experience and Technology
 textline: |
   Belkirk College of Engineering
