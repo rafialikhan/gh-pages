@@ -11,7 +11,7 @@ services:
 - description: User Experience is the focus of great products.
   heading: User Experience
   icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.25.46 AM.png"
-- description: Technology for everything else.
+- description: Good technology powers great products.
   heading: Technology
   icon: "/uploads/2018/12/05/coding.png"
 sub_heading: User Experience and Technology
