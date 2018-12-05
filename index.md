@@ -8,10 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: User Experience is the focus of great designs.
+  heading: User Experience
+  icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.06.29 AM.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
