@@ -15,10 +15,7 @@ services:
   heading: Technology
   icon: "/uploads/2018/12/05/coding.png"
 sub_heading: User Experience and Technology
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Rafi Ali Khan @ Zool
 hero_button:
   text: About Me
   href: "/about"
