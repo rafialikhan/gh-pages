@@ -10,7 +10,7 @@ partners:
 services:
 - description: User Experience is the focus of great designs.
   heading: User Experience
-  icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.06.29 AM.png"
+  icon: "/uploads/2018/12/05/Screen Shot 2018-12-06 at 2.25.46 AM.png"
 - description: Technology for everything else.
   heading: Technology
   icon: "/uploads/2018/12/05/coding.png"
