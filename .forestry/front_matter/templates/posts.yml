@@ -9,5 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/hi-vikas.md
+- _posts/2018-12-11-hi-vikas.md
 - _posts/2018-12-06-Welcome.md
