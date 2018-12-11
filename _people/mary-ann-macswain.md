@@ -15,8 +15,4 @@ thumbnail: "/uploads/2018/12/05/developers.jpg"
 layout: person
 
 ---
-Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
-
-Mary-Ann received her B.A. (Honours) in Psychology from Dartmouth, where she is currently completing her MSc in Epidemiology.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Vikas joined Zool in the initial days and has been with Zool since inception.
